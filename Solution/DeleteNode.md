@@ -8,11 +8,11 @@
 
 通常删除单链表某个节点的操作为修改其前一个节点的指针指向其后的节点。但道题并没有给我们什么上下文信息，所以我们只能将其下一个节点的信息赋值给它了。
 
-‘''
+```
 class Solution {
     public void deleteNode(ListNode node) {
         node.val = node.next.val;
         node.next = node.next.next;
     }
 }
-'''
+```
