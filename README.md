@@ -13,6 +13,6 @@ Solution of leetcode.
 | Squence | Problem                                  | Difficulty | Solution                                 |
 | ------- | ---------------------------------------- | ---------- | ---------------------------------------- |
 | 0       | [Two Sum](https://leetcode.com/problems/two-sum/description/) | Easy       | [Link](https://github.com/PleaseCallMeCoder/LeetCodeMe/blob/master/Solution/TwoSum.md) |
-| 1       |                                          |            |                                          |
+| 1       | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | Easy       | [Link](https://github.com/PleaseCallMeCoder/LeetCodeMe/blob/master/Solution/DeleteNode.md) |
 | 2       |                                          |            |                                          |
 
