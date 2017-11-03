@@ -15,6 +15,8 @@
 
 # 方案v1.0
 
+比较暴力的一种方式，穷举法。时间复杂度为O(n^2)，空间复杂度为O(1)。
+
 ```
 class Solution {
     public int[] twoSum(int[] nums, int target) {
@@ -33,3 +35,23 @@ class Solution {
 }
 ```
 
+# 方案v2.0
+
+从另一个角度思考，我们不判断是否存在两数相加等于特定值，而是去判断特定值减去当前元素的差值(补码)是否存在于数组中。因为只有一层循环，所以时间复杂度为O(n)，但是因为我们增加了额外的空间，所以空间复杂度为O(n)。
+
+```
+class Solution {
+    int[] result = new int[2];
+    Map<Integer, Integer> complements = new HashMap<>();
+    for (int i = 0; i < nums.length; i++) {
+        int complement = target - nums[i];
+        if (complements.containsKey(complement)) {
+            result[0] = complements.get(complement);
+            result[1] = i;
+            return result;
+        }
+        complements.put(nums[i], i);
+    }
+    return result;
+}
+```

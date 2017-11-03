@@ -1,6 +1,6 @@
 # LeetCodeMe
 
-My solution of leetcode.
+Solution of leetcode.
 
 # Basic Knowladge
 
