@@ -16,9 +16,9 @@ Solution of leetcode.
 | ------- | ---------------------------------------- | ---------- | ---------------------------------------- |
 | 0       | [Two Sum](https://leetcode.com/problems/two-sum/description/) | Easy       | [Link](https://github.com/PleaseCallMeCoder/LeetCodeMe/blob/master/Solution/TwoSum.md) |
 | 1       | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | Easy       | [Link](https://github.com/PleaseCallMeCoder/LeetCodeMe/blob/master/Solution/DeleteNode.md) |
-| 2       | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | Easy       |                                          |
-| 3       | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | Easy       |                                          |
-| 4       | [ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | Easy       |                                          |
-| 5       | [ Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/) | Easy       |                                          |
+| 2       | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | Easy       | [Link](https://github.com/PleaseCallMeCoder/LeetCodeMe/blob/master/Solution/PalindromeLinkedList.md) |
+| 3       | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | Easy       | [Link](https://github.com/PleaseCallMeCoder/LeetCodeMe/blob/master/Solution/LinkedListCycle.md) |
+| 4       | [ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | Easy       | [Link](https://github.com/PleaseCallMeCoder/LeetCodeMe/blob/master/Solution/ReverseLinkedList.md) |
+| 5       | [ Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/) | Easy       | [Link](https://github.com/PleaseCallMeCoder/LeetCodeMe/blob/master/Solution/Non-decreasingArray.md) |
 |         |                                          |            |                                          |
 
