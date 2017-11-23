@@ -20,5 +20,5 @@ Solution of leetcode.
 | 3       | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | Easy       | [Link](https://github.com/PleaseCallMeCoder/LeetCodeMe/blob/master/Solution/LinkedListCycle.md) |
 | 4       | [ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | Easy       | [Link](https://github.com/PleaseCallMeCoder/LeetCodeMe/blob/master/Solution/ReverseLinkedList.md) |
 | 5       | [ Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/) | Easy       | [Link](https://github.com/PleaseCallMeCoder/LeetCodeMe/blob/master/Solution/Non-decreasingArray.md) |
-|         |                                          |            |                                          |
+| 6       | ToHundred                                | Easy       | [link](https://github.com/PleaseCallMeCoder/LeetCodeMe/blob/master/Solution/ToHundred.md) |
 
